@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.donana.ejemplo.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.382 s - in org.donana.ejemplo.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.444 s - in org.donana.ejemplo.AppTest
